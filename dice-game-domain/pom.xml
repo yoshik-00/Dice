@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    
+    <parent>
+        <groupId>com.dice</groupId>
+        <artifactId>dice-game-parent</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    
+    <artifactId>dice-game-domain</artifactId>
+    <packaging>jar</packaging>
+    <name>Dice Game Domain</name>
+    <description>Domain models and interfaces</description>
+    
+    <!-- このモジュールは依存関係なし -->
+</project>
